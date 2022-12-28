@@ -27,3 +27,6 @@
   * `Virtual machine size` 欄位請選擇所要用到的規格
   * 以上資訊輸入完成後點選 `Create`
 ![](./Images/6.png)
+
+* 建立過程中
+![](./Images/7.png)
