@@ -70,5 +70,5 @@
 ![](./Images/17.png)
 ![](./Images/18.png)
 
-* 點選上方 `Stop`
+* 點選上方 `Start`
 ![](./Images/19.png)
