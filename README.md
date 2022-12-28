@@ -34,7 +34,8 @@
 * 建立完成
 ![](./Images/8.png)
 
-## 開啟所建立的機器
+## 開啟所建立的機器中的 JupyterLab
+* 點選 `JupyterLab`
 ![](./Images/9.png)
 
 ## 用完請記得將機器關機 切記
