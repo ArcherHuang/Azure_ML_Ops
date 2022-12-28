@@ -20,3 +20,10 @@
 
 * 點選 `+ New`
 ![](./Images/5.png)
+
+* 輸入相關資訊
+  * `Compute name` 欄位輸入可識別的名稱
+  * `Virtual machine type` 欄位請選擇 `GPU`
+  * `Virtual machine size` 欄位請選擇所要用到的規格
+  * 以上資訊輸入完成後點選 `Create`
+![](./Images/6.png)
