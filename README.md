@@ -54,3 +54,7 @@
 ## 用完請記得將機器關機【 切記 】
 * 點選左下方 `Compute` 的 ICON
 ![](./Images/13.png)
+
+* 點選所要關閉的機器
+![](./Images/14.png)
+![](./Images/15.png)
