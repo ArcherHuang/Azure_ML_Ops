@@ -35,7 +35,7 @@
 ![](./Images/8.png)
 
 ## 開啟所建立的機器中的 Notebooks
-* 點選 `Notebooks` 的 ICON
+* 點選左上方 `Notebooks` 的 ICON
 ![](./Images/9.png)
 
 ## 建立 Jupyter 檔案
