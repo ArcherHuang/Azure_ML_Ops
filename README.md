@@ -38,4 +38,14 @@
 * 點選 `Notebooks` 的 ICON
 ![](./Images/9.png)
 
+## 建立 Jupyter 檔案
+* 點選 `+ Create` > 點選 `Create new file`
+![](./Images10.png)
+
+* 輸入相關資訊
+  * `File name` 欄位請取一個唯一可識別的名稱且副檔名為 `ipynb`
+  * `File type` 欄位請選擇 `Notebook (*.ipynb)`
+  * 以上資訊輸入完成後請點選 `Create`
+![](./Images11.png)
+
 ## 用完請記得將機器關機 切記
