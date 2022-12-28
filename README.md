@@ -13,3 +13,7 @@
 ## 進入到 Studio
 * 點選 `Launch studio`
 ![](./Images/3.png)
+
+## 建立所要使用的算力
+* 點選 `Compute`
+![](./Images/4.png)
