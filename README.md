@@ -3,6 +3,13 @@
 * https://portal.azure.com/
 
 ## 到 Azure Machine Learning
-* 於搜尋框輸入 `Azure Machine Learning` > 點選 `` 搜尋結果 `Azure Machine Learning`
+* 於搜尋框輸入 `Azure Machine Learning` > 點選 `Azure Machine Learning` 搜尋結果
 ![](./Images/1.png)
 
+## 進入到 Workspace
+* 點選 `ML-Ops`
+![](./Images/2.png)
+
+## 進入到 Studio
+* 點選 `Launch studio`
+![](./Images/3.png)
