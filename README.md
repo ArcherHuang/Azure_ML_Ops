@@ -17,3 +17,6 @@
 ## 建立所要使用的算力
 * 點選 `Compute`
 ![](./Images/4.png)
+
+* 點選 `+ New`
+![](./Images/5.png)
