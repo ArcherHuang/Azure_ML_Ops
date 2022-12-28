@@ -60,3 +60,15 @@
 ![](./Images/15.png)
 
 * 點選上方 `Stop`
+![](./Images/16.png)
+
+## 將機器開機
+* 點選左下方 `Compute` 的 ICON
+![](./Images/13.png)
+
+* 點選所要開啟的機器
+![](./Images/17.png)
+![](./Images/18.png)
+
+* 點選上方 `Stop`
+![](./Images/19.png)
